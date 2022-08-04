@@ -23,9 +23,9 @@
                 </a>
                 <ul>
                     <li><a href="https://gtrcoders.com/">Home</a></li>
-                    <li><a href="https://adegambit.github.io/">Portfolio</a></li>
-                    <li><a href="https://adegambit.github.io/">About me</a></li><!--"just to fill up some space", he said, waving his hands around, wafting around the Eurotrash air around himself-->
-                    <li><a href="https://adegambit.github.io/">Contact</a></li>
+                    <li><a href="https://github.com/adeGambit?tab=repositories">Portfolio</a></li>
+                    <li><a href="https://adegambit.github.io/">About Me</a></li><!--"just to fill up some space", he said, waving his hands around, wafting around the Eurotrash air around himself-->
+                    <li><a href="https://adegambit.github.io/">Contact Links/Options</a></li>
                 </ul>
             </nav>
                 <div>
